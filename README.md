@@ -48,7 +48,7 @@ Social media marketing: <br/>
 <h2>Setting Up Our Performance Goals</h2>
 
 <p>
-First we'll review Baba’s Restaurant’s Q4 business goal, the related marketing goals, and the KPIs we'll track for these marketing goals. 
+Step 2: First we'll review Baba’s Restaurant’s Q4 business goal, the related marketing goals, and the KPIs we'll track for these marketing goals. 
 </p>
 <p>
 <img src="https://i.imgur.com/sSMbnwY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -56,8 +56,8 @@ First we'll review Baba’s Restaurant’s Q4 business goal, the related marketi
 <br />
 
 <p>
-To verify the successful installation of IIS, open your web browser and enter '127.0.0.1' into the address bar. This IP address is known as the 'localhost' and is used to refer to the computer you're currently using. If IIS has been installed and configured correctly, you should be greeted with the default IIS welcome page. This step is crucial as it confirms that your system is properly set up to host web applications.</p>
+Step 2: Calculate Baba’s Restaurant’s Q3 conversion rates and click-through rates for e-mail and social media. Then, we'll insert those numbers into the formulas below to calculate conversion rates and click-through rates for both channels. </p>
 <p>
-<img src="https://i.imgur.com/bn3eMwO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fvk4D40.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
