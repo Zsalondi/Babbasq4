@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/PZfqKdx.png" alt="mock">
+<img src="https://i.imgur.com/Mv88oGj.jpeg" alt="mock">
 </p>
 
 <h1>Babba's Gullah Restaurant: Q4 Performance Goals</h1>
