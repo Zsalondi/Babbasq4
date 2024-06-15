@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/PZfqKdx.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/PZfqKdx.png" height="80%" width="80%" alt="mock">
 </p>
 
 <h1>Babba's Gullah restaurant: Q4 Performance Goals</h1>
