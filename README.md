@@ -10,11 +10,9 @@ This tutorial outlines how to determine some performance goals for a company’s
 
  ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com) --->
 
-<h2>Environments and Technologies Used</h2>
+<h2>Scenario</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+Baba’s is an independently-owned Gullah restaurant in South Carolina. They have recently launched a new line of proprietary spice blends. Currently, they only sell these products in their restaurant. However, to help achieve the company’s business goal to raise annual sales by 10% over the previous year, they plan to also sell the product line on the company’s website. You are responsible for running social media and email campaigns to to increase website traffic and conversions, as measured by the CTR and CVR. 
 
 <h2>Operating Systems Used </h2>
 
