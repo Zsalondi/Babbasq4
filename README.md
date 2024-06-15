@@ -45,15 +45,13 @@ Social media marketing: <br/>
 - Conversion rate (CVR) = 4%
 - Click-through rate (CTR) = 1.1%
 
-<h2>Installation Steps</h2>
+<h2>Review target goals and metrics</h2>
 
 <p>
-We will configure and activate Internet Information Services (IIS), a robust web server platform that enables a computer to host websites. Given that OsTicket operates through a web interface, it's essential to establish and fine-tune IIS settings to ensure the seamless operation of OsTicket<br/> 
- 
-Initiate the process by right-clicking the Start menu, selecting 'Run', and then entering 'control' to access the Control Panel. Navigate to 'Programs' and select 'Turn Windows features on or off'. Within the list, locate 'Internet Information Services > World Wide Web Services > Application Development Features'. Here, ensure to enable 'CGI' along with all of the 'Common HTTP Features' to properly configure the server environment. Select 'Ok' to initiate installation.
+First we'll review Baba’s Restaurant’s Q4 business goal, the related marketing goals, and the KPIs we'll track for these marketing goals. 
 </p>
 <p>
-<img src="https://i.imgur.com/OxWAXSI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sSMbnwY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
