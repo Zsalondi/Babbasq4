@@ -25,15 +25,15 @@ Baba’s is an independently-owned Gullah restaurant in South Carolina. They hav
 - CTR (click-through rate)
 <h2>Baba’s Q3 Performance Data:</h2>
 
-- Email:
-Conversions: 90
-Clicks: 1,200
-Impressions: 80,000
+Email: <br/>
+- Conversions: 90
+- Clicks: 1,200
+- Impressions: 80,000
 
-- Social Media:
-  Conversions: 30
-  Clicks: 900
-  Impressions: 90,000
+Social Media: <br/>
+- Conversions: 30
+- Clicks: 900
+- Impressions: 90,000
 
 
 <h2>Installation Steps</h2>
