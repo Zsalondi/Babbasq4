@@ -45,7 +45,7 @@ Social media marketing: <br/>
 - Conversion rate (CVR) = 4%
 - Click-through rate (CTR) = 1.1%
 
-<h2>Review target goals and metrics</h2>
+<h2>Setting Up Our Performance Goals</h2>
 
 <p>
 First we'll review Baba’s Restaurant’s Q4 business goal, the related marketing goals, and the KPIs we'll track for these marketing goals. 
