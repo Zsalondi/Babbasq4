@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/PZfqKdx.png" alt="mock">
 </p>
 
-<h1>Babba's Gullah restaurant: Q4 Performance Goals</h1>
+<h1>Babba's Gullah Restaurant: Q4 Performance Goals</h1>
 This tutorial outlines how to determine some performance goals for a company’s email and social media marketing campaigns.<br />
 
 
@@ -14,19 +14,16 @@ This tutorial outlines how to determine some performance goals for a company’s
 
 Baba’s is an independently-owned Gullah restaurant in South Carolina. They have recently launched a new line of proprietary spice blends. Currently, they only sell these products in their restaurant. However, to help achieve the company’s business goal to raise annual sales by 10% over the previous year, they plan to also sell the product line on the company’s website. You are responsible for running social media and email campaigns to to increase website traffic and conversions, as measured by the CTR and CVR. 
 
-<h2>Operating Systems Used </h2>
+<h2>Baba’s Q4 Marketing Goals:</h2>
 
-- Windows 10</b> (21H2)
+- Goal 1: By the end of Q4, increase the combined CVR from all marketing channels by 2% (two percentage points) above the CVR in Q3.
+- Goal 2: By the end of Q4, increase the combined CTR from all marketing channels by 5% (five percentage points) above the CTR in Q3.
 
-<h2>List of Prerequisites</h2>
+<h2>Baba’s KPIs for Email and Social Media Campaigns:</h2>
 
-- Install / Enable IIS in Windows
-- Download / Install PHP Manager for IIS
-- Download / Install the Rewrite Module 
-- Create the directory C:\PHP
-- Download / Unzip PHP 7.3.8
-- Download / Install VC_redist.x86.exe.
-- Download / Install MySQL 5.5.62
+- CVR (conversion rate)
+- CTR (click-through rate)
+
 
 <h2>Installation Steps</h2>
 
