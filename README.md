@@ -35,6 +35,15 @@ Social Media: <br/>
 - Clicks: 900
 - Impressions: 90,000
 
+<h2>Food and Drink Industry Benchmarks: </h2>
+
+Email marketing: <br/>
+- Conversion rate (CVR) = 8.3%
+- Click-through rate (CTR) = 2%
+
+Social media marketing: <br/>
+- Conversion rate (CVR) = 4%
+- Click-through rate (CTR) = 1.1%
 
 <h2>Installation Steps</h2>
 
