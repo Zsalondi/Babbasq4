@@ -69,3 +69,12 @@ Conversion Rate Percentage = 90 Conversions / 1,200 Total Clicks x 100 = 7.5% fo
 </p>
 <br />
 
+<p>
+Click-through Rate Percentage = 
+ - Emails: 1,200 clicks / 80,000 Impressions x 100 = 1.5% Click-through Rate Percentage
+ - Social Media: 900 Clicks / 90,000 Impressions x 100 = 1% Click-through Rate Percentage
+<p>
+<img src="https://i.imgur.com/eD99P5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
