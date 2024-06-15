@@ -63,9 +63,9 @@ Step 2: Calculate Baba’s Restaurant’s Q3 conversion rates and click-through 
 <br />
 
 <p>
-Conversion Rate Percentage =<br/>
-- 90 Conversions / 1,200 Total Clicks x 100 = 7.5% for emails <br/>
-- 30 Conversions / 900 Clicks x 100 = 3.33% for Social Media
+Conversion Rate Percentage = <br/>
+Emails: 90 Conversions / 1,200 Total Clicks x 100 = 7.5% <br/>
+Social Media: 30 Conversions / 900 Clicks x 100 = 3.33%
 <p>
 <img src="https://i.imgur.com/eD99P5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -73,10 +73,10 @@ Conversion Rate Percentage =<br/>
 
 <p>
 Click-through Rate Percentage = <br/>
- - Emails: 1,200 clicks / 80,000 Impressions x 100 = 1.5% Click-through Rate Percentage <br/>
- - Social Media: 900 Clicks / 90,000 Impressions x 100 = 1% Click-through Rate Percentage
+Emails: 1,200 clicks / 80,000 Impressions x 100 = 1.5% Click-through Rate Percentage <br/>
+Social Media: 900 Clicks / 90,000 Impressions x 100 = 1% Click-through Rate Percentage
 <p>
-<img src="https://i.imgur.com/eD99P5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ueut0Lq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
