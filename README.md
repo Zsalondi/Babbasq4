@@ -81,10 +81,9 @@ Social Media: 900 Clicks / 90,000 Impressions x 100 = 1% Click-through Rate Perc
 <br />
 
 <p>
-Taking the industry averages into account, the performance goals for Q4 aim to outperform the industry averages and attainably improve upon Q3 company performance data for each KPI. <br/>
-
-<b>The Q4 performance goals</b> does not need to add up to the desired percentage point increase across all channels. Because I set goals for two (email and social media) that I am responsible for out of possibly many other channels, the below performance goals can contribute toward a combined marketing goal without necessarily satisfying it. Other channels would presumably contribute and make up the difference to meet the overall marketing goal. 
+Taking the industry averages into account, the performance goals for Q4 aim to outperform the industry averages and attainably improve upon Q3 company performance data for each KPI.</p>
 <p>
 <img src="https://i.imgur.com/GF6GqqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
+<p>The Q4 performance goals</b> does not need to add up to the desired percentage point increase across all channels. Because I set goals for two (email and social media) that I am responsible for out of possibly many other channels, the below performance goals can contribute toward a combined marketing goal without necessarily satisfying it. Other channels would presumably contribute and make up the difference to meet the overall marketing goal.</p> 
+<br /
