@@ -81,7 +81,9 @@ Social Media: 900 Clicks / 90,000 Impressions x 100 = 1% Click-through Rate Perc
 <br />
 
 <p>
-Taking the industry averages into account, write performance goals that improve upon the Q3 company performance data for each KPI. Consider the following when crafting your goals:
+Taking the industry averages into account, the performance goals for Q4 aim to out perform the industry averages and attainably improve upon the Q3 company performance data for each KPI. <br/>
+
+*The Q4 performance goals does not need to add up to the desired percentage point increase across all channels. Because I set goals for two (email and social media) out of possibly many other channels, the below performance goals can contribute toward a combined marketing goal without necessarily satisfying it. For instance, for CTR in the exemplar, the Q4 performance goals for email and social media are increases of 0.8 and 0.6 percentage points, respectively. Adding these results in a combined 1.4 percentage point increase, but this is less than the five percentage points specified in the marketing goal for all channels. Other channels would presumably contribute and make up the difference to meet the overall marketing goal. 
 <p>
 <img src="https://i.imgur.com/GF6GqqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
