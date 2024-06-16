@@ -80,3 +80,9 @@ Social Media: 900 Clicks / 90,000 Impressions x 100 = 1% Click-through Rate Perc
 </p>
 <br />
 
+<p>
+Taking the industry averages into account, write performance goals that improve upon the Q3 company performance data for each KPI. Consider the following when crafting your goals:
+<p>
+<img src="https://i.imgur.com/GF6GqqJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
