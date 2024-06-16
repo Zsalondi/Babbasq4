@@ -48,7 +48,7 @@ Social media marketing: <br/>
 <h2>Setting Up Our Performance Goals</h2>
 
 <p>
-Step 2: First we'll review Baba’s Restaurant’s Q4 business goal, the related marketing goals, and the KPIs we'll track for these marketing goals. 
+Step 1: To setup our Q4 perfromance goals, I’ll review Baba’s Restaurant’s Q4 business goal, the related marketing objectives, and the KPIs I’ll track to measure our progress.
 </p>
 <p>
 <img src="https://i.imgur.com/sSMbnwY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -56,7 +56,7 @@ Step 2: First we'll review Baba’s Restaurant’s Q4 business goal, the related
 <br />
 
 <p>
-Step 2: Calculate Baba’s Restaurant’s Q3 conversion rates and click-through rates for e-mail and social media. Then, we'll insert those numbers into the formulas below to calculate conversion rates and click-through rates for both channels. </p>
+Step 2: Calculate Baba’s Restaurant’s Q3 conversion rates and click-through rates for e-mail and social media to see how they compare to Industry standards. </p>
 <p>
 <img src="https://i.imgur.com/fvk4D40.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
